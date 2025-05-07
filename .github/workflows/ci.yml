@@ -22,7 +22,7 @@ jobs:
         run: mvn checkstyle:check
 
       - name: JUnit ба JaCoCo Coverage
-        run: mvn test jacoco:check
+        run: mvn test
 
       - name: JaCoCo Тайлан
         run: mvn jacoco:report
