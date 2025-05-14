@@ -12,7 +12,5 @@
 
    ```java
    <<<<<<< hotfix/v1.0.1
-   // Hotfix by Bat
    =======
-   // Developed by Bat
    >>>>>>> develop
